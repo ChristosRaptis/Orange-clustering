@@ -24,4 +24,4 @@ Use of UMAP to reduce the features
 Use of Kmeans for clustering, after failed attempt with DBSCAN due to it being resource demanding
 
 ### Clusters interpretation:
-Use of means comparison for clusters interpretation, after droped attempt at using SHAP due to it being time consuming
+Use of means comparison for clusters interpretation, after dropped attempt at using SHAP due to it being time consuming
