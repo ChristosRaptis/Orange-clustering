@@ -1,7 +1,6 @@
 # Orange-clustering
 
 ## Objective: clustering of a multidimensional dataset provided by Orange and interpretation of resulting clusters.
-The dataset consists of over 540.000 rows and 159 features.
 
 ## Disclaimer: due to NDA restrictions this repo contains no data, only the code logic.
 
